@@ -1,0 +1,6 @@
+c:\users\alumno.et37\documents\visual studio 2015\Projects\Estacionamiento_ChiquiTapia\Estacionamiento_ChiquiTapia\bin\Debug\Estacionamiento_ChiquiTapia.exe.config
+c:\users\alumno.et37\documents\visual studio 2015\Projects\Estacionamiento_ChiquiTapia\Estacionamiento_ChiquiTapia\bin\Debug\Estacionamiento_ChiquiTapia.exe
+c:\users\alumno.et37\documents\visual studio 2015\Projects\Estacionamiento_ChiquiTapia\Estacionamiento_ChiquiTapia\bin\Debug\Estacionamiento_ChiquiTapia.pdb
+c:\users\alumno.et37\documents\visual studio 2015\Projects\Estacionamiento_ChiquiTapia\Estacionamiento_ChiquiTapia\obj\Debug\Estacionamiento_ChiquiTapia.csprojResolveAssemblyReference.cache
+c:\users\alumno.et37\documents\visual studio 2015\Projects\Estacionamiento_ChiquiTapia\Estacionamiento_ChiquiTapia\obj\Debug\Estacionamiento_ChiquiTapia.exe
+c:\users\alumno.et37\documents\visual studio 2015\Projects\Estacionamiento_ChiquiTapia\Estacionamiento_ChiquiTapia\obj\Debug\Estacionamiento_ChiquiTapia.pdb
