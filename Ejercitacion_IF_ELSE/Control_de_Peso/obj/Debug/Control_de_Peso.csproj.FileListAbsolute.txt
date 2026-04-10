@@ -1,0 +1,6 @@
+c:\users\alumno.et37\documents\visual studio 2015\Projects\Control_de_Peso\Control_de_Peso\bin\Debug\Control_de_Peso.exe.config
+c:\users\alumno.et37\documents\visual studio 2015\Projects\Control_de_Peso\Control_de_Peso\bin\Debug\Control_de_Peso.exe
+c:\users\alumno.et37\documents\visual studio 2015\Projects\Control_de_Peso\Control_de_Peso\bin\Debug\Control_de_Peso.pdb
+c:\users\alumno.et37\documents\visual studio 2015\Projects\Control_de_Peso\Control_de_Peso\obj\Debug\Control_de_Peso.csprojResolveAssemblyReference.cache
+c:\users\alumno.et37\documents\visual studio 2015\Projects\Control_de_Peso\Control_de_Peso\obj\Debug\Control_de_Peso.exe
+c:\users\alumno.et37\documents\visual studio 2015\Projects\Control_de_Peso\Control_de_Peso\obj\Debug\Control_de_Peso.pdb
