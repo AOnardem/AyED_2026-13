@@ -1,0 +1,5 @@
+c:\users\alumno.et37\documents\visual studio 2015\Projects\Usuario_Contraseña\Usuario_Contraseña\bin\Debug\Usuario_Contraseña.exe.config
+c:\users\alumno.et37\documents\visual studio 2015\Projects\Usuario_Contraseña\Usuario_Contraseña\bin\Debug\Usuario_Contraseña.exe
+c:\users\alumno.et37\documents\visual studio 2015\Projects\Usuario_Contraseña\Usuario_Contraseña\bin\Debug\Usuario_Contraseña.pdb
+c:\users\alumno.et37\documents\visual studio 2015\Projects\Usuario_Contraseña\Usuario_Contraseña\obj\Debug\Usuario_Contraseña.exe
+c:\users\alumno.et37\documents\visual studio 2015\Projects\Usuario_Contraseña\Usuario_Contraseña\obj\Debug\Usuario_Contraseña.pdb
