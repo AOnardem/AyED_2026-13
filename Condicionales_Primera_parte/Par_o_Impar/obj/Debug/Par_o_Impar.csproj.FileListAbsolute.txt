@@ -1,0 +1,5 @@
+c:\users\alumno.et37\documents\visual studio 2015\Projects\Par_o_Impar\Par_o_Impar\bin\Debug\Par_o_Impar.exe.config
+c:\users\alumno.et37\documents\visual studio 2015\Projects\Par_o_Impar\Par_o_Impar\bin\Debug\Par_o_Impar.exe
+c:\users\alumno.et37\documents\visual studio 2015\Projects\Par_o_Impar\Par_o_Impar\bin\Debug\Par_o_Impar.pdb
+c:\users\alumno.et37\documents\visual studio 2015\Projects\Par_o_Impar\Par_o_Impar\obj\Debug\Par_o_Impar.exe
+c:\users\alumno.et37\documents\visual studio 2015\Projects\Par_o_Impar\Par_o_Impar\obj\Debug\Par_o_Impar.pdb
