@@ -1,0 +1,5 @@
+c:\users\alumno.et37\documents\visual studio 2015\Projects\Calculadora_de_Descuentos\Calculadora_de_Descuentos\bin\Debug\Calculadora_de_Descuentos.exe.config
+c:\users\alumno.et37\documents\visual studio 2015\Projects\Calculadora_de_Descuentos\Calculadora_de_Descuentos\bin\Debug\Calculadora_de_Descuentos.exe
+c:\users\alumno.et37\documents\visual studio 2015\Projects\Calculadora_de_Descuentos\Calculadora_de_Descuentos\bin\Debug\Calculadora_de_Descuentos.pdb
+c:\users\alumno.et37\documents\visual studio 2015\Projects\Calculadora_de_Descuentos\Calculadora_de_Descuentos\obj\Debug\Calculadora_de_Descuentos.exe
+c:\users\alumno.et37\documents\visual studio 2015\Projects\Calculadora_de_Descuentos\Calculadora_de_Descuentos\obj\Debug\Calculadora_de_Descuentos.pdb
