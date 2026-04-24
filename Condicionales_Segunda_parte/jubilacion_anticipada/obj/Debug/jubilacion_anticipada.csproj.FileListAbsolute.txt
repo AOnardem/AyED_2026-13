@@ -1,0 +1,5 @@
+c:\users\alumno.et37\documents\visual studio 2015\Projects\jubilacion_anticipada\jubilacion_anticipada\bin\Debug\jubilacion_anticipada.exe.config
+c:\users\alumno.et37\documents\visual studio 2015\Projects\jubilacion_anticipada\jubilacion_anticipada\bin\Debug\jubilacion_anticipada.exe
+c:\users\alumno.et37\documents\visual studio 2015\Projects\jubilacion_anticipada\jubilacion_anticipada\bin\Debug\jubilacion_anticipada.pdb
+c:\users\alumno.et37\documents\visual studio 2015\Projects\jubilacion_anticipada\jubilacion_anticipada\obj\Debug\jubilacion_anticipada.exe
+c:\users\alumno.et37\documents\visual studio 2015\Projects\jubilacion_anticipada\jubilacion_anticipada\obj\Debug\jubilacion_anticipada.pdb
