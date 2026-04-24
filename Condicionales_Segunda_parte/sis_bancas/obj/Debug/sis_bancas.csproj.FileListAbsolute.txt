@@ -1,0 +1,5 @@
+c:\users\alumno.et37\documents\visual studio 2015\Projects\sis_bancas\sis_bancas\bin\Debug\sis_bancas.exe.config
+c:\users\alumno.et37\documents\visual studio 2015\Projects\sis_bancas\sis_bancas\bin\Debug\sis_bancas.exe
+c:\users\alumno.et37\documents\visual studio 2015\Projects\sis_bancas\sis_bancas\bin\Debug\sis_bancas.pdb
+c:\users\alumno.et37\documents\visual studio 2015\Projects\sis_bancas\sis_bancas\obj\Debug\sis_bancas.exe
+c:\users\alumno.et37\documents\visual studio 2015\Projects\sis_bancas\sis_bancas\obj\Debug\sis_bancas.pdb
