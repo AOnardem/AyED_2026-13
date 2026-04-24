@@ -1,0 +1,5 @@
+c:\users\alumno.et37\documents\visual studio 2015\Projects\conversor_de_segundos\conversor_de_segundos\bin\Debug\conversor_de_segundos.exe.config
+c:\users\alumno.et37\documents\visual studio 2015\Projects\conversor_de_segundos\conversor_de_segundos\bin\Debug\conversor_de_segundos.exe
+c:\users\alumno.et37\documents\visual studio 2015\Projects\conversor_de_segundos\conversor_de_segundos\bin\Debug\conversor_de_segundos.pdb
+c:\users\alumno.et37\documents\visual studio 2015\Projects\conversor_de_segundos\conversor_de_segundos\obj\Debug\conversor_de_segundos.exe
+c:\users\alumno.et37\documents\visual studio 2015\Projects\conversor_de_segundos\conversor_de_segundos\obj\Debug\conversor_de_segundos.pdb
