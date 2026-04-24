@@ -1,0 +1,5 @@
+c:\users\alumno.et37\documents\visual studio 2015\Projects\Diferencia_de_edad\Diferencia_de_edad\bin\Debug\Diferencia_de_edad.exe.config
+c:\users\alumno.et37\documents\visual studio 2015\Projects\Diferencia_de_edad\Diferencia_de_edad\bin\Debug\Diferencia_de_edad.exe
+c:\users\alumno.et37\documents\visual studio 2015\Projects\Diferencia_de_edad\Diferencia_de_edad\bin\Debug\Diferencia_de_edad.pdb
+c:\users\alumno.et37\documents\visual studio 2015\Projects\Diferencia_de_edad\Diferencia_de_edad\obj\Debug\Diferencia_de_edad.exe
+c:\users\alumno.et37\documents\visual studio 2015\Projects\Diferencia_de_edad\Diferencia_de_edad\obj\Debug\Diferencia_de_edad.pdb
