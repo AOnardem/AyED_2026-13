@@ -1,0 +1,5 @@
+c:\users\alumno.et37\documents\visual studio 2015\Projects\iDIOMAS\iDIOMAS\bin\Debug\iDIOMAS.exe.config
+c:\users\alumno.et37\documents\visual studio 2015\Projects\iDIOMAS\iDIOMAS\bin\Debug\iDIOMAS.exe
+c:\users\alumno.et37\documents\visual studio 2015\Projects\iDIOMAS\iDIOMAS\bin\Debug\iDIOMAS.pdb
+c:\users\alumno.et37\documents\visual studio 2015\Projects\iDIOMAS\iDIOMAS\obj\Debug\iDIOMAS.exe
+c:\users\alumno.et37\documents\visual studio 2015\Projects\iDIOMAS\iDIOMAS\obj\Debug\iDIOMAS.pdb
