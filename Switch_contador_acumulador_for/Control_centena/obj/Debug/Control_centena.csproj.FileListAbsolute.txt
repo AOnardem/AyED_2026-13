@@ -1,0 +1,5 @@
+c:\users\alumno.et37\documents\visual studio 2015\Projects\Control_centena\Control_centena\bin\Debug\Control_centena.exe.config
+c:\users\alumno.et37\documents\visual studio 2015\Projects\Control_centena\Control_centena\bin\Debug\Control_centena.exe
+c:\users\alumno.et37\documents\visual studio 2015\Projects\Control_centena\Control_centena\bin\Debug\Control_centena.pdb
+c:\users\alumno.et37\documents\visual studio 2015\Projects\Control_centena\Control_centena\obj\Debug\Control_centena.exe
+c:\users\alumno.et37\documents\visual studio 2015\Projects\Control_centena\Control_centena\obj\Debug\Control_centena.pdb
