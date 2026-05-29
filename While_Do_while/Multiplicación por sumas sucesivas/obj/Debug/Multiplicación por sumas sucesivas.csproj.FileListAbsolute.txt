@@ -1,0 +1,5 @@
+c:\users\alumno.et37\documents\visual studio 2015\Projects\Multiplicación por sumas sucesivas\Multiplicación por sumas sucesivas\bin\Debug\Multiplicación por sumas sucesivas.exe.config
+c:\users\alumno.et37\documents\visual studio 2015\Projects\Multiplicación por sumas sucesivas\Multiplicación por sumas sucesivas\bin\Debug\Multiplicación por sumas sucesivas.exe
+c:\users\alumno.et37\documents\visual studio 2015\Projects\Multiplicación por sumas sucesivas\Multiplicación por sumas sucesivas\bin\Debug\Multiplicación por sumas sucesivas.pdb
+c:\users\alumno.et37\documents\visual studio 2015\Projects\Multiplicación por sumas sucesivas\Multiplicación por sumas sucesivas\obj\Debug\Multiplicación por sumas sucesivas.exe
+c:\users\alumno.et37\documents\visual studio 2015\Projects\Multiplicación por sumas sucesivas\Multiplicación por sumas sucesivas\obj\Debug\Multiplicación por sumas sucesivas.pdb
