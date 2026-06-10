@@ -1,0 +1,5 @@
+c:\users\alumno.et37\documents\visual studio 2015\Projects\Sis de login con intentos bloqueados\Sis de login con intentos bloqueados\bin\Debug\Sis de login con intentos bloqueados.exe.config
+c:\users\alumno.et37\documents\visual studio 2015\Projects\Sis de login con intentos bloqueados\Sis de login con intentos bloqueados\bin\Debug\Sis de login con intentos bloqueados.exe
+c:\users\alumno.et37\documents\visual studio 2015\Projects\Sis de login con intentos bloqueados\Sis de login con intentos bloqueados\bin\Debug\Sis de login con intentos bloqueados.pdb
+c:\users\alumno.et37\documents\visual studio 2015\Projects\Sis de login con intentos bloqueados\Sis de login con intentos bloqueados\obj\Debug\Sis de login con intentos bloqueados.exe
+c:\users\alumno.et37\documents\visual studio 2015\Projects\Sis de login con intentos bloqueados\Sis de login con intentos bloqueados\obj\Debug\Sis de login con intentos bloqueados.pdb
