@@ -1,0 +1,5 @@
+c:\users\alumno.et37\documents\visual studio 2015\Projects\Simulador de dados con apuestas\Simulador de dados con apuestas\bin\Debug\Simulador de dados con apuestas.exe.config
+c:\users\alumno.et37\documents\visual studio 2015\Projects\Simulador de dados con apuestas\Simulador de dados con apuestas\bin\Debug\Simulador de dados con apuestas.exe
+c:\users\alumno.et37\documents\visual studio 2015\Projects\Simulador de dados con apuestas\Simulador de dados con apuestas\bin\Debug\Simulador de dados con apuestas.pdb
+c:\users\alumno.et37\documents\visual studio 2015\Projects\Simulador de dados con apuestas\Simulador de dados con apuestas\obj\Debug\Simulador de dados con apuestas.exe
+c:\users\alumno.et37\documents\visual studio 2015\Projects\Simulador de dados con apuestas\Simulador de dados con apuestas\obj\Debug\Simulador de dados con apuestas.pdb
