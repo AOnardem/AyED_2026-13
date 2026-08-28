@@ -1,0 +1,5 @@
+c:\users\alumno.et37\documents\visual studio 2015\Projects\SumarHasta\SumarHasta\bin\Debug\SumarHasta.exe.config
+c:\users\alumno.et37\documents\visual studio 2015\Projects\SumarHasta\SumarHasta\bin\Debug\SumarHasta.exe
+c:\users\alumno.et37\documents\visual studio 2015\Projects\SumarHasta\SumarHasta\bin\Debug\SumarHasta.pdb
+c:\users\alumno.et37\documents\visual studio 2015\Projects\SumarHasta\SumarHasta\obj\Debug\SumarHasta.exe
+c:\users\alumno.et37\documents\visual studio 2015\Projects\SumarHasta\SumarHasta\obj\Debug\SumarHasta.pdb
